@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kumarkeshava
-- 👀 I’m interested in ... Findout a Bugs and Create New Test Seinarios 
+- 👀 I’m interested in ... Findout a Bugs and Create New Test Seinarios And Test Cases
 - 🌱 I’m currently learning ...Software Testing
 - 📫 How to reach me ...
 
